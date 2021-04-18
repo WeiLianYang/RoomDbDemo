@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">出勤记录</string>
+    <string name="start">上班签到</string>
+    <string name="end">下班打卡</string>
+    <string name="clear">重置记录</string>
+</resources>
